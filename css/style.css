@@ -1,0 +1,19 @@
+.shape{
+    position: relative;
+    left: 640px;
+    top: 300px;
+}
+.plan{
+    position: relative;
+
+}
+.human{
+    position: relative;
+    /* right: 50px; */
+    left: 250px;
+    top: 100px;
+}
+.man{
+    display: flex;
+    position: relative;
+}
